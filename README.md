@@ -1,3 +1,3 @@
 # Hello-Tribe
-My introduction into Github
-My first branch
+My introduction into Github.\
+Updates work + line break learned!
